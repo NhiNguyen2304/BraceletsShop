@@ -6,11 +6,8 @@
 
 
 /*********************************
-6.1 Current Page
+1.1 Current Page
 *********************************/
-
-.current_page {}
-
 .current_page ul li {
 	display: inline-block;
 	position: relative;
@@ -88,10 +85,6 @@
 }
 
 .product-action {
-	bottom: 0;
-	/* left: 0; */
-	/* opacity: 0; */
-	/* margin-top: 10%; */
 	position: absolute;
 	right: 0;
 	text-align: center;
@@ -121,9 +114,3 @@
 .action-cart a:hover {
 	color: #232323;
 }
-
-
-/* .product-wrapper:hover .product-action {
-	bottom: 20px;
-	opacity: 1
-} */
