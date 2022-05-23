@@ -19,7 +19,7 @@
     width: 14px;
     height: 30px;
 }
-#btnOrder{
+.button_custom{
     width: 142px;
     background: #222222;
 	height: 46px;
@@ -32,6 +32,12 @@
 	transition: all 200ms ease;
 }
 
+.button_custom a{
+    text-decoration: none!;
+    background: #222222;
+    color: white;
+}
+
 .button:hover
 {
 	color: #937c6f;
@@ -42,13 +48,18 @@
     width: 100%;
 }
 
-#btnPlaceOrder{
+.button_custom{
     background: #222222;;
     width: 100%;
 }
 
-#btnPlaceOrder:hover
+.button_custom:hover
 {
 	color: #937c6f;
     background: #222222;
 }
+.button_custom a:hover{
+    color: #937c6f;
+    background: #222222;
+}
+
