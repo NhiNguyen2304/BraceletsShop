@@ -106,7 +106,7 @@ ul {
 	color: #8a8a8a;
 }
 
-.in_stock_container
+/* .in_stock_container
 {
 	margin-top: 27px;
 }
@@ -136,7 +136,7 @@ ul {
 	font-size: 14px;
 	color: #232323;
 	margin-left: 7px;
-}
+} */
 .product_text
 {
 	margin-top: 56px;
@@ -157,7 +157,7 @@ ul {
 	color: #232323;
 	vertical-align: middle;
 }
-.product_quantity
+/* .product_quantity
 {
 	display: inline-block;
 	width: 122px;
@@ -240,7 +240,7 @@ ul {
 	-ms-transform: translateY(-3px);
 	-o-transform: translateY(-3px);
 	transform: translateY(-3px);
-}
+} */
 .product_size_container
 {
 	margin-top: 54px;

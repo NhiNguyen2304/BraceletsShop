@@ -4,6 +4,10 @@
 	background: #FFFFFF;
 }
 
+/*Main*/
+body {
+	vertical-align: middle;
+}
 
 /*********************************
 1.1 Current Page
@@ -40,13 +44,6 @@
 
 .current_page ul li a:hover {
 	color: #937c6f;
-}
-
-
-/*Additional*/
- body {
-	vertical-align: middle;
-	/* display: flex; */
 }
 
 .mt-100 {
